@@ -13,7 +13,7 @@ O arquivo editável dos diagramas e suas visualizações estão disponíveis aba
 
 ## Protótipo
 
-[Visualizar o protótipo Endemia360 no Figma]([https://www.figma.com/design/8MG5kd14pNwRfri8siFHd2/Endemia360](https://github.com/gv8407940-arch/Endemia360/blob/main/prototipo_figma.md))
+[Visualizar o protótipo Endemia360 no Figma](https://github.com/gv8407940-arch/Endemia360/blob/main/prototipo_figma.md)
 
 ## Situação do projeto
 
